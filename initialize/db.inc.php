@@ -38,7 +38,7 @@
 	// refbase package:
 	// Note: - if there's no existing database with the specified name,
 	//         the 'install.php' script will create it for you
-	$databaseName = "literature"; // e.g.: "literature"
+	$databaseName = "db_49bbb620"; // e.g.: "literature"
 
 	// The name of the MySQL user that's going to be used with your MySQL
 	// literature database:
@@ -46,11 +46,11 @@
 	//         user that has full administrative privileges like the root user!)
 	//       - if there's no existing MySQL user with the specified name,
 	//         the 'install.php' script will create this user for you
-	$username = "litwww"; // e.g.: "litwww"
+	$username = "user_49bbb620"; // e.g.: "litwww"
 
 	// The password by which the above MySQL user will be granted access to
 	// your MySQL literature database:
-	$password = "%l1t3ratur3?"; // e.g.: "%l1t3ratur3?"
+	$password = "QaMahKUwI4Prg3"; // e.g.: "%l1t3ratur3?"
 
 	// --------------------------------------------------------------------
 
